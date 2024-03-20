@@ -10,4 +10,6 @@ logo: /assets/väderapp.png
 
 #### HTML/CSS
 logo: /assets/rockingjanne1.png
+![alt text](https://github.com/[KakanOG]/[portfolio]/assets/[main]/rockingjanne1.png?raw=true)
 logo: /assets/rockingjanne2.png
+![alt text](https://github.com/[KakanOG]/[portfolio]/assets/[main]/rockingjanne2.png?raw=true)
