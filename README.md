@@ -6,6 +6,7 @@ logo: /assets/eventease.png
 
 ### Native JS labb 2
 logo: /assets/väderapp.png
+![alt text](https://github.com/[KakanOG]/[portfolio]/assets/[main]/väderapp.png?raw=true)
 
 #### HTML/CSS
 logo: /assets/rockingjanne1.png
