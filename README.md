@@ -1,7 +1,11 @@
 # portfolio
 
-#### HTML/CSS
+## Vue.js -> GRUPPUPGIFT <-
+logo: /assets/eventease.png
 
 ### Native JS labb 2
+logo: /assets/väderapp.png
 
-## Vue.js -> GRUPPUPGIFT <-
+#### HTML/CSS
+logo: /assets/rockingjanne1.png
+logo: /assets/rockingjanne2.png
